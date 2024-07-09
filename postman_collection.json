@@ -1,0 +1,340 @@
+{
+    "info": {
+        "name": "PermisAPI-v2",
+        "schema": "https:\/\/schema.getpostman.com\/json\/collection\/v2.1.0\/collection.json"
+    },
+    "item": [
+        {
+            "name": "sanctum\/csrf-cookie",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000sanctum\/csrf-cookie",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "sanctum",
+                        "csrf-cookie"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/sectors",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/sectors",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "sectors"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/sectors",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/sectors",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "sectors"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/sectors\/{sector}",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/sectors\/{sector}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "sectors",
+                        "{sector}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/sectors\/{sector}",
+            "request": {
+                "method": "PUT",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/sectors\/{sector}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "sectors",
+                        "{sector}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/sectors\/{sector}",
+            "request": {
+                "method": "DELETE",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/sectors\/{sector}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "sectors",
+                        "{sector}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/lisences",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/lisences",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "lisences"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/lisences",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/lisences",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "lisences"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/lisences\/{lisence}",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/lisences\/{lisence}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "lisences",
+                        "{lisence}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/lisences\/{lisence}",
+            "request": {
+                "method": "PUT",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/lisences\/{lisence}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "lisences",
+                        "{lisence}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/lisences\/{lisence}",
+            "request": {
+                "method": "DELETE",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/lisences\/{lisence}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "lisences",
+                        "{lisence}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/users",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/users",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "users"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/users",
+            "request": {
+                "method": "POST",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/users",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "users"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/users\/{user}",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/users\/{user}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "users",
+                        "{user}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/users\/{user}",
+            "request": {
+                "method": "PUT",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/users\/{user}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "users",
+                        "{user}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "api\/users\/{user}",
+            "request": {
+                "method": "DELETE",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000api\/users\/{user}",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "api",
+                        "users",
+                        "{user}"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "up",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000up",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "up"
+                    ]
+                }
+            }
+        },
+        {
+            "name": "\/",
+            "request": {
+                "method": "GET",
+                "header": [],
+                "body": [],
+                "url": {
+                    "raw": "127.0.0.1:8000\/",
+                    "host": [
+                        "127.0.0.1:8000"
+                    ],
+                    "path": [
+                        "",
+                        ""
+                    ]
+                }
+            }
+        }
+    ]
+}
